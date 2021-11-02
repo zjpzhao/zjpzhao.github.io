@@ -182,6 +182,7 @@ term
 
 ## Strikethrough
 `~~The world is flat.~~`
+<br>
 ~~The world is flat.~~
 
 <br>
