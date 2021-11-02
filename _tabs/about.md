@@ -5,4 +5,7 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+<!-- ## ~~Working toward the **Bachelor Degree in Science** of College of Computer Science and Technology. ~~ -->
+## Working toward the **Master Degree in Engineering** of College of Computer Science and Technology. 
+
+### Interested in HPC computing, GPGPU architecture.
