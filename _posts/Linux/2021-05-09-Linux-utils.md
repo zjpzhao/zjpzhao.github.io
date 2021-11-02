@@ -51,7 +51,7 @@ The `screen` command launches a terminal in the background which can be detached
 ## Rename files in batches
 `$ rename [options] "s/oldname/newname/" file`  
 ### Command ***rename***'s options and parameters:
-![rename result](/assets/img/2021-05-09-Linux-utils/2021-05-09-23-01-31.png){: width="450" .right}  
+![rename result]{{ site.url }}(/assets/img/2021-05-09-Linux-utils/2021-05-09-23-01-31.png){: width="450" .right}  
 ***-n*** preview result without execute  
 (directly execute if without option [-n])  
 ***s*** stands for 'substitution'  

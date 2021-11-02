@@ -216,12 +216,12 @@ term
 <br>
 
 ## Image
-![](/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
-![](/assets/img/2021-11-01-Markdown-Tutorials/ML.png)
+![]{{ site.url }}(/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
+![]{{ site.url }}(/assets/img/2021-11-01-Markdown-Tutorials/ML.png)
 
 ```markdown
-![](/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
-![](/assets/img/2021-11-01-Markdown-Tutorials/ML.png)
+![]{{ site.url }}(/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
+![]{{ site.url }}(/assets/img/2021-11-01-Markdown-Tutorials/ML.png)
 ```
 <br>
 
