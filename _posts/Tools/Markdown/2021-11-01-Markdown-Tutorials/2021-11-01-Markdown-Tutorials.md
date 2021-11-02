@@ -192,8 +192,8 @@ term
 <br>
 `![](img/2021-11-01-Markdown-Tutorials/ML.png)`
 <br>
-![](/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
-![](/img/2021-11-01-Markdown-Tutorials/ML.png)
+![](img/2021-11-01-Markdown-Tutorials/CAAQA.png)
+![](img/2021-11-01-Markdown-Tutorials/ML.png)
 
 <br>
 ## Footnote
