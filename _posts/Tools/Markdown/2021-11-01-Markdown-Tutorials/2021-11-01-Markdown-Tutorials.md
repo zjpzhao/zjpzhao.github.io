@@ -19,17 +19,21 @@ Modified: <%+ tp.file.last_modified_date() %>
 <br>
 
 强调
+<br>
 `**hhh**`
+<br>
 **hhh** 
 <br>
 
 
 `*hhh*`
+<br>
 *hhh* 
 <br>
 
 
 `[[hehehe]]`
+<br>
 [[hehehe]] 
 <br>
 
@@ -38,19 +42,23 @@ Modified: <%+ tp.file.last_modified_date() %>
 ### My Great Heading {#custom-id}
 <br>
   
- 
 ### 公式
-将文字\lim_{x \to \infty} \frac{sin(t)}{x}=1两端分别用两个$引起来
-###公式
 \lim_{x \to \infty} \frac{sin(t)}{x}=1 两端分别用两个$引起来
 
 $$
 \lim_{x \to \infty} \frac{sin(t)}{x}=1
 $$
+
+<br>
 在vscode中，在一段文字中插入公式用快捷键ctr+m或者`$\lim_{x \to \infty} \frac{sin(t)}{x}=1$ `
+<br>
+
 $\lim_{x \to \infty} \frac{sin(t)}{x}=1$ 
 
-连续按两下ctrl+m会产生四个\$，来编辑公式
+<br>
+连续按两下ctrl+m会产生四个$，来编辑公式
+<br>
+
 $$
 \lim_{x \to \infty} \frac{sin(t)}{x}=1
 $$
@@ -59,9 +67,9 @@ $$
 
 
 ## 表格
-`| 小明 | 大明 | 姚明  |`
-`| :--- | ---: | :---: |`
-`| 1.3  |  1.2 |  1.8  |`
+`| 小明 | 大明 | 姚明  |`<br>
+`| :--- | ---: | :---: |`<br>
+`| 1.3  |  1.2 |  1.8  |`<br>
 
 | 小明 | 大明 | 姚明  |
 | :--- | ---: | :---: |
@@ -95,12 +103,12 @@ inputs = to_onehot(X, vocab_size)
 len(inputs), inputs[0].shape
 ```
 
-###对号
+### 对号
 `$$
 \checkmark
 \huge \color{red}{\checkmark}
 $$`
-
+<br>
 $$
 \checkmark
 \huge \color{red}{\checkmark}
@@ -164,6 +172,7 @@ The cmd key for Windows is ctrl.
 
 ## Definition List
 `term`
+<br>
 `: definition`
 
 term
@@ -179,13 +188,16 @@ term
 
 ## Image
 `![](img/2021-11-01-Markdown-Tutorials/CAAQA.png)`
+<br>
 `![](img/2021-11-01-Markdown-Tutorials/ML.png)`
+<br>
 ![](/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
 ![](/img/2021-11-01-Markdown-Tutorials/ML.png)
 
 <br>
 ## Footnote
 `Here's a sentence with a footnote. [^1]`
+<br>
 `[^1]: This is the footnote.`
 
 Here's a sentence with a footnote. [^1]
