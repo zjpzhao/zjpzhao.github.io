@@ -21,7 +21,7 @@ jekyll自动识别二级标题，并生成博客右侧的目录content（注意�
 ## 粘贴图片工具-VSCode插件*Paste Image*
 <br>
 
-![](/_posts/Tools/Blogging/2021-05-10-jekyll-githubpages/img/2021-05-10-16-24-47.png){: width="80%"}
+![](/assets/img/2021-05-10-jekyll-githubpages/2021-05-10-16-24-47.png){: width="80%"}
 _按照配置样例修改settings.json_
 
 <br>
@@ -39,18 +39,18 @@ _按照配置样例修改settings.json_
 
 <br>
 
-![保存路径预览](/_posts/Tools/Blogging/2021-05-10-jekyll-githubpages/img/2021-05-10-16-24-17.png){: width="80%"}
+![保存路径预览](/assets/img/2021-05-10-jekyll-githubpages/2021-05-10-16-24-17.png){: width="80%"}
 _保存路径预览_
 
 <br>
 
-![保存和生成链接代码](/_posts/Tools/Blogging/2021-05-10-jekyll-githubpages/img/2021-05-10-16-24-34.png){: width="80%"}
+![保存和生成链接代码](/assets/img/2021-05-10-jekyll-githubpages/2021-05-10-16-24-34.png){: width="80%"}
 _保存和生成链接代码_
 
 <br>
 
 注意，直接复制图片**文件**然后粘贴是不行的，会在右下角报错：
-![](/_posts/Tools/Blogging/2021-05-10-jekyll-githubpages/img/2021-05-10-16-26-14.png){: width="50%"}
+![](/assets/img/2021-05-10-jekyll-githubpages/2021-05-10-16-26-14.png){: width="50%"}
 _报错不识别_
 
 <br>
@@ -58,10 +58,10 @@ _报错不识别_
 ERROR原因是:直接复制文件不会进入剪贴板（推测与文件操作用的不是一套剪贴板）  
 解决方法是:打开这张图片然后复制到剪贴板
 
-![](/_posts/Tools/Blogging/2021-05-10-jekyll-githubpages/img/2021-05-10-16-27-49.png){: width="50%"}
+![](/assets/img/2021-05-10-jekyll-githubpages/2021-05-10-16-27-49.png){: width="50%"}
 _在图片浏览器中复制到剪贴板_
 
-![](/_posts/Tools/Blogging/2021-05-10-jekyll-githubpages/img/2021-05-10-16-40-12.png){: width="50%"}
+![](/assets/img/2021-05-10-jekyll-githubpages/2021-05-10-16-40-12.png){: width="50%"}
 _成功复制到剪贴板_
 
 <br>
