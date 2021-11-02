@@ -28,7 +28,7 @@ tags: [Jekyll,Blog,vscode]
 ---
 
 ## 实现gitpage上的评论模块——使用utterances
-登录[官网](https://utteranc.es/)，按照说明进行配置和选择（千万不要忘记为你的repo安装utterances app）。评论模块的主题这里，我选择可以适应浏览端操作系统暗亮风格的*preferred-color-scheme*，最后生成如下script代码：
+登录[官网](https://utteranc.es/)，按照说明进行配置和选择（千万不要忘记为你的repo安装utterances app）。评论模块的主题这里，我选择可以适应浏览端操作系统亮暗风格的*preferred-color-scheme*，最后生成如下script代码：
 
 ```javascript
 <script src="https://utteranc.es/client.js"
@@ -99,6 +99,7 @@ _保存和生成链接代码_
 <br>
 
 注意，直接复制图片**文件**然后粘贴是不行的，会在右下角报错：
+
 ![]({{ site.url }}/assets/img/2021-05-10-jekyll-githubpages/2021-05-10-16-26-14.png){: width="50%"}
 _报错不识别_
 
