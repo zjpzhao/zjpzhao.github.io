@@ -178,10 +178,10 @@ term
 <br>
 
 ## Image
-`![](/_site/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)`
-`![](/_site/assets/img/2021-11-01-Markdown-Tutorials/ML.png)`
-![](/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
-![](/assets/img/2021-11-01-Markdown-Tutorials/ML.png)
+`![](img/2021-11-01-Markdown-Tutorials/CAAQA.png)`
+`![](img/2021-11-01-Markdown-Tutorials/ML.png)`
+![](/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
+![](/img/2021-11-01-Markdown-Tutorials/ML.png)
 
 <br>
 ## Footnote
